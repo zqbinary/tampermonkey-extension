@@ -7,6 +7,7 @@
 // @author       yujinpan
 // @include      http*://www.dytt8.net/*
 // @include      http*://www.ygdy8.com/*
+// @include      http*://www.ygdy8.net/*
 // @include      http*://www.dy2018.com/*
 // @include      http*://www.xiaopian.com/*
 // @include      http*://www.dygod.net/*
